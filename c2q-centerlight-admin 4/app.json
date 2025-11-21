@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "c2q-centerlight-admin",
+    "slug": "c2q-centerlight-admin",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "sdkVersion": "52.0.0",
+    "platforms": ["ios", "android", "web"],
+    "assetBundlePatterns": ["**/*"]
+  }
+}

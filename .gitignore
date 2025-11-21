@@ -41,3 +41,7 @@ yarn-error.*
 /.codacy
 /nivo-complex-viz-suite
 /nivo-perf-lab
+
+
+#Ignore vscode AI rules
+.github/instructions/codacy.instructions.md

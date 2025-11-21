@@ -1,0 +1,11 @@
+.ws-btn {
+  padding: 8px 12px;
+  border-radius: var(--radius);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  background: transparent;
+  cursor: pointer;
+}
+
+.ws-btn:hover {
+  background: rgba(255, 0, 0, 0.05);
+}

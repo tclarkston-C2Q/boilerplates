@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "eldercare-admin-rnw",
+    "slug": "eldercare-admin-rnw",
+    "scheme": "eldercare-admin-rnw",
+    "plugins": ["expo-router"],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}

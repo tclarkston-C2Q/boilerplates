@@ -1,0 +1,35 @@
+{
+  "name": "c2q-centerlight-admin",
+  "version": "1.0.0",
+  "main": "App.tsx",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo/metro-runtime": "~4.0.1",
+    "@gluestack-style/react": "^1.0.57",
+    "@gluestack-ui/config": "^1.1.21",
+    "@gluestack-ui/themed": "^1.1.42",
+    "expo": "~52.0.0",
+    "expo-status-bar": "~2.0.0",
+    "nativewind": "^2.0.11",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-native": "0.76.0",
+    "react-native-chart-kit": "^6.12.0",
+    "react-native-safe-area-context": "4.12.0",
+    "react-native-svg": "15.8.0",
+    "react-native-web": "~0.19.13",
+    "tailwindcss": "^3.4.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.24.0",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.0",
+    "typescript": "^5.0.0"
+  },
+  "private": true
+}

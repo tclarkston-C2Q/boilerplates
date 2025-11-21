@@ -1,0 +1,11 @@
+
+> eldercare-admin-rnw@1.0.0 web /Users/toddclarkston/source/wireservers/boilerplates/Working/eldercare-admin-rnw-starter
+> expo start --web --port 8085 --clear
+
+Starting project at /Users/toddclarkston/source/wireservers/boilerplates/Working/eldercare-admin-rnw-starter
+Starting Metro Bundler
+warning: Bundler cache is empty, rebuilding (this may take a minute)
+Waiting on http://localhost:8085
+Logs for your project will appear below.
+Web Bundled 2537ms node_modules/expo-router/entry.js (3503 modules)
+ LOG  [web] Logs will appear in the browser console

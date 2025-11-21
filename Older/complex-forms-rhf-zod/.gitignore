@@ -1,0 +1,13 @@
+
+node_modules
+dist
+.vite
+.idea
+.DS_Store
+.env*
+coverage
+.storybook-cache
+
+
+#Ignore vscode AI rules
+.github/instructions/codacy.instructions.md

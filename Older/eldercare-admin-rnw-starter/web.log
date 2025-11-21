@@ -1,0 +1,15 @@
+
+> eldercare-admin-rnw@1.0.0 web /Users/toddclarkston/source/wireservers/boilerplates/eldercare-admin-rnw-starter
+> expo start --web
+
+Starting project at /Users/toddclarkston/source/wireservers/boilerplates/eldercare-admin-rnw-starter
+Starting Metro Bundler
+The following packages should be updated for best compatibility with the installed expo version:
+  react-native@0.74.0 - expected version: 0.74.5
+  react-native-svg@15.15.0 - expected version: 15.2.0
+  typescript@5.9.3 - expected version: ~5.3.3
+Your project may not work correctly until you install the expected versions of the packages.
+Waiting on http://localhost:8081
+Logs for your project will appear below.
+Web Bundling failed 144ms node_modules/expo-router/entry.js (1 module)
+error: node_modules/expo-router/entry.js: [BABEL] /Users/toddclarkston/source/wireservers/boilerplates/eldercare-admin-rnw-starter/node_modules/expo-router/entry.js: .plugins is not a valid Plugin property
